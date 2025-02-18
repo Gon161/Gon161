@@ -9,7 +9,7 @@
 <a href="https://fb.com/gon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gon" height="30" width="40" /></a>
 <a href="https://instagram.com/gon161_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gon161_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/gon161" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gon161" height="30" width="40" /></a>
-<a href="https://discord.gg/#4066" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#4066" height="30" width="40" /></a>
+<a href="https://discord.gg/MWqrTwCZAQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#4066" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
