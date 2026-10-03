@@ -6,7 +6,7 @@
   </a>
 
   <p>
-    <strong>24 años · INTJ · 5w6 · 🇲🇽 México</strong>
+    <strong>25 años · INTJ · 5w6 · 🇲🇽 México</strong>
   </p>
 
   <p>
